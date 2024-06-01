@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 текст лр 6
+=======
+текст лр6
+>>>>>>> Stashed changes
